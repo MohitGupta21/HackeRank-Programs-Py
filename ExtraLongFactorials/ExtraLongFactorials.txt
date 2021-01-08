@@ -1,0 +1,6 @@
+The factorial of the integer , written , is defined as:
+	n! = n x (n-1) x (n-2) x (n-3) x (n-4).....x 3 x 2 x 1
+
+Calculate and print the factorial of a given integer.
+
+For example, if n = 30 , we calculate 30 x 29 x 28 x 27....x 2 x 1  and get 26525285981219105863630848000000. 
